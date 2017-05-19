@@ -1,5 +1,5 @@
 # ga_simple_test
 
-## install composer
+1. install composer
 
-## run composer install --prefer-dist
+2. run composer install --prefer-dist
