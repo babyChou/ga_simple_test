@@ -1,0 +1,20 @@
+composer install --prefer-dist
+
+
+php.ini (add)
+
+curl.cainfo = "C:\wamp\bin\php\php5.6.19\extras\ssl\cacert.pem"
+
+
+---
+
+https://developers.google.com/analytics/devguides/reporting/core/v3/coreDevguide
+
+http://todomato.blogspot.tw/2016/01/google-google-analytics-api-3-step-by.html
+
+
+access_token
+https://developers.google.com/analytics/devguides/reporting/core/v4/quickstart/web-php
+
+
+http://hklifenote.blogspot.tw/2015/08/google-analytics-api.html
